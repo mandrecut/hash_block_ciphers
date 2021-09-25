@@ -1,6 +1,6 @@
 # Hash Block Ciphers
 
-This is an encryption method based on hash functions: <a href="https://github.com/mandrecut/hash_block_ciphers/hash_block_ciphers.pdf" target="_blank">
+This is an encryption method based on hash functions: <a href="https://github.com/mandrecut/hash_block_ciphers/hash_block_ciphers.pdf" target="_blank">Hash Block Ciphers</a>
 
 Warning, "do it yourself encryption" is not encouraged, better use an existing validated approach. 
 The method described here was developed only for educational purposes, it is not fully tested and validated, 
