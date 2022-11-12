@@ -4,7 +4,7 @@ This is an encryption method based on hash functions: <a href="https://github.co
 
 Warning, "do it yourself encryption" is not encouraged, better use an existing validated approach. 
 The method described here was developed only for educational purposes, it is not fully tested and validated, 
-in practice use at your own risk. 
+in practice use it at your own risk. 
 
 ## Basic usage
 
